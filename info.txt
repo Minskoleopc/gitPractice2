@@ -1,0 +1,11 @@
+git init  --- initialize git repo 
+
+Working  Directory -------- Staging ------- local Repo ------ Remote Repo 
+    script.py  ----------- script.py
+
+
+
+git init  ==>  initialize git repo 
+git add . / git add  script.py  ==> takes code from working to Staging
+git commit - m "added"  ===> staging to local 
+
