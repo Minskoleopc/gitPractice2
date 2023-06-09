@@ -4,7 +4,6 @@ Working  Directory -------- Staging ------- local Repo ------ Remote Repo
     script.py  ----------- script.py
 
 
-
 git init  ==>  initialize git repo 
 git add . / git add  script.py  ==> takes code from working to Staging
 git commit - m "added"  ===> staging to local  (first tym configure email and username)
@@ -19,10 +18,20 @@ git diff --- difference between working directory and staging
 
 
 // branch
-
 git branch
 git branch login_feature
 git checkout login_feature  (from one branch to another branch)
+
+////   ------- Working
+
+create a branch 
+work on branch 
+push the local branch to remote 
+create a pull 
+compare and merge the code to main branch 
+delete the branch 
+check out to main branch and pull the code
+again new branch -- repeat
 
 
 
