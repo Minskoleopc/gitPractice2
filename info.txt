@@ -8,6 +8,21 @@ Working  Directory -------- Staging ------- local Repo ------ Remote Repo
 git init  ==>  initialize git repo 
 git add . / git add  script.py  ==> takes code from working to Staging
 git commit - m "added"  ===> staging to local  (first tym configure email and username)
+git push origin main ===> to push from local repo to remote repo
+git pull origin  ===> to pull the code from remote repo to local repo
+
+// total number of commits 
+
+git log  ---  to view all commits
+git show HEAD  ---- to basically view the lastest commits
+git diff --- difference between working directory and staging
+
+
+
+
+
+
+
 
 
 
