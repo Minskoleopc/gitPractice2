@@ -7,5 +7,7 @@ Working  Directory -------- Staging ------- local Repo ------ Remote Repo
 
 git init  ==>  initialize git repo 
 git add . / git add  script.py  ==> takes code from working to Staging
-git commit - m "added"  ===> staging to local 
+git commit - m "added"  ===> staging to local  (first tym configure email and username)
+
+
 
